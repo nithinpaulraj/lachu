@@ -13,9 +13,10 @@ if (k==j) {
 	System.out.println("ams");
 } else {
 System.out.println("not ams");
-}
-}
 
+}
+System.out.println("bshbh");	
+	}
 }
 	
 	

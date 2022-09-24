@@ -15,7 +15,7 @@ if (k==j) {
 System.out.println("not ams");
 
 }
-System.out.println("bshbh");	
+System.out.println("bshbh+ dwjefh");	
 	}
 }
 	
